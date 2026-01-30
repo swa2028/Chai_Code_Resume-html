@@ -17,5 +17,5 @@ No CSS or JavaScript has been used, as per assignment requirements.
 1. Download or clone this repository.
 2. Open the `index.html` file in any web browser.
 
-# Screenshots
+# Outputs - Screenshots
 Screenshots of the output are included, please refer HTML1 & HTML2 PNG files
