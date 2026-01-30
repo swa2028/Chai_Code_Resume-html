@@ -1,6 +1,6 @@
-# Chai_Code_Resume-html
-# Single Page Resume using HTML
-This project is a simple single-page resume website built using only HTML.
+# HTML Resume Page Assignment
+
+This page is a simple single-page resume website built using only HTML.
 No CSS or JavaScript has been used, as per assignment requirements.
 
 # Features
